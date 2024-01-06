@@ -1,0 +1,1 @@
+export { TabDefaultWrapper } from "./TabDefaultWrapper";

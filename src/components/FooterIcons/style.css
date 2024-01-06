@@ -1,0 +1,33 @@
+.footer-icons {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 32px;
+  justify-content: center;
+  position: relative;
+}
+
+.footer-icons .icons {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.footer-icons .icon-instance-node {
+  height: 48px !important;
+  position: relative !important;
+  width: 48px !important;
+}
+
+.footer-icons .text-wrapper-3 {
+  color: var(--font-medium-emphasis);
+  font-family: "Nunito", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}

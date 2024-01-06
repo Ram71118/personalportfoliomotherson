@@ -1,0 +1,17 @@
+.label {
+  height: 22px;
+  position: relative;
+  width: 44px;
+}
+
+.label .text-wrapper-2 {
+  color: var(--font-high);
+  font-family: "Nunito", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}

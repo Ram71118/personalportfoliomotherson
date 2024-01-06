@@ -1,0 +1,65 @@
+.project-nfo {
+  background-color: var(--bg-white);
+  height: 524px;
+  position: relative;
+  width: 496px;
+}
+
+.project-nfo .frame {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  left: 50px;
+  position: relative;
+  top: 140px;
+  width: 407px;
+}
+
+.project-nfo .text-4 {
+  align-self: stretch;
+  color: #25282b;
+  font-family: "Playfair Display", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 60px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.project-nfo .p {
+  align-self: stretch;
+  color: #828282;
+  font-family: "Nunito", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.project-nfo .bot-o-secud-rio {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: #25282b;
+  border-radius: 24px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 8px 24px;
+  position: relative;
+}
+
+.project-nfo .text-5 {
+  color: #25282b;
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1px;
+  mix-blend-mode: darken;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

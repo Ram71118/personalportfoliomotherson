@@ -1,0 +1,40 @@
+.header {
+  height: 56px;
+  position: relative;
+  width: 1440px;
+}
+
+.header .madelyn-torff {
+  color: var(--font-high-emphasis);
+  font-family: "Comfortaa", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 120px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.header .nav {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 48px;
+  left: 1028px;
+  position: absolute;
+  top: 14px;
+}
+
+.header .tab-default-instance {
+  flex: 0 0 auto !important;
+}
+
+.header .design-component-instance-node {
+  font-family: var(--body-18px-font-family) !important;
+  font-size: var(--body-18px-font-size) !important;
+  font-style: var(--body-18px-font-style) !important;
+  font-weight: var(--body-18px-font-weight) !important;
+  letter-spacing: var(--body-18px-letter-spacing) !important;
+  line-height: var(--body-18px-line-height) !important;
+}
